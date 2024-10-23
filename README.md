@@ -149,7 +149,7 @@ This dashboard provides a comprehensive view of the sales performance, including
 
 This dashboard presents insights into customer demographics, purchase behavior, and customer segmentation by city and product lines.
 
-![Customer Insights Dashboard](images/Customer_overview.png)
+![Customer Insights Dashboard](Customer_overview.png)
 
 ### 3.General Overview Performance 
 
