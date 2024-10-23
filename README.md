@@ -136,3 +136,24 @@ CREATE TABLE IF NOT EXISTS sales(
     gross_income DECIMAL(12,4),
     rating FLOAT(2,1)
 );
+
+## Power BI Dashboards
+
+### 1. Sales Overview Dashboard
+
+This dashboard provides a comprehensive view of the sales performance, including total revenue, top-selling products, and sales trends over time.
+
+![Sales Overview Dashboard](images/sales_overview.png)
+
+### 2. Customer Insights Dashboard
+
+This dashboard presents insights into customer demographics, purchase behavior, and customer segmentation by city and product lines.
+
+![Customer Insights Dashboard](images/Customer_overview.png)
+
+### 3.General Overview Performance 
+
+This dashboard highlights the performance of various product lines, identifying the top revenue-generating products, profit margins, and the impact of discounts on sales.
+
+![Product Line Performance Dashboard](images/Overview.png)
+
