@@ -108,6 +108,26 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 9. Which day of the week has the best average ratings?
 10. Which day of the week has the best average ratings per branch?
 
+    ## Power BI Dashboards
+
+### 1. Sales Overview Dashboard
+
+This dashboard provides a comprehensive view of the sales performance, including total revenue, top-selling products, and sales trends over time.
+
+![Sales Overview Dashboard](images/sales_overview.png)
+
+### 2. Customer Insights Dashboard
+
+This dashboard presents insights into customer demographics, purchase behavior, and customer segmentation by city and product lines.
+
+![Customer Insights Dashboard](images/Customer_overview.png)
+
+### 3.General Overview Performance 
+
+This dashboard highlights the performance of various product lines, identifying the top revenue-generating products, profit margins, and the impact of discounts on sales.
+
+![Product Line Performance Dashboard](images/Overview.png)
+
 ## Code
 
 For the rest of the code, check the [Walmart Project.sql](WalmartProject.sql) file.
@@ -137,23 +157,5 @@ CREATE TABLE IF NOT EXISTS sales(
     rating FLOAT(2,1)
 );
 
-## Power BI Dashboards
 
-### 1. Sales Overview Dashboard
-
-This dashboard provides a comprehensive view of the sales performance, including total revenue, top-selling products, and sales trends over time.
-
-![Sales Overview Dashboard](images/sales_overview.png)
-
-### 2. Customer Insights Dashboard
-
-This dashboard presents insights into customer demographics, purchase behavior, and customer segmentation by city and product lines.
-
-![Customer Insights Dashboard](Customer_overview.png)
-
-### 3.General Overview Performance 
-
-This dashboard highlights the performance of various product lines, identifying the top revenue-generating products, profit margins, and the impact of discounts on sales.
-
-![Product Line Performance Dashboard](images/Overview.png)
 
